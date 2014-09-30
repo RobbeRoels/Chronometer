@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, tablets. -->
+    <dimen name="activity_horizontal_margin">25dp</dimen>
+    <dimen name="activity_vertical_margin">25dp</dimen>
+    <dimen name="letterSize">30sp</dimen>
+</resources>
